@@ -1,0 +1,5 @@
+EMOTION,VALUE
+Neutral,0
+Happy,7
+Sad,38
+Angry,53
